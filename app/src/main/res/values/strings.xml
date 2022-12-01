@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sudoku Puzzle</string>
+    <string name="reset">Reset</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="timer">Timer</string>
+    <string name="change">Change</string>
+    <string name="game_board_settings">Game Board Settings</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="reset_timer">Reset Timer</string>
+    <string name="reset_timer_confirmation">Are you sure you want to reset the timer?</string>
+</resources>
